@@ -1,0 +1,6 @@
+github.com/gametimesf/paypal-go-sdk v0.0.0-20170831194556-53900355094a h1:KW0GC27i14FiokeDry17RlWhpBW/SDVT8mWJ3zmNIAU=
+github.com/gametimesf/paypal-go-sdk v0.0.0-20170831194556-53900355094a/go.mod h1:BbZty0Kle/MkI/Kpm+ttlzrx6waqDMs4JDbKbstCEM8=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/logpacker/PayPal-Go-SDK v2.0.5+incompatible h1:FGElA5Evfcolh+1jivSPd6Fz2zYCNtjHnoJqGUR/Ztc=
+github.com/logpacker/PayPal-Go-SDK v2.0.5+incompatible/go.mod h1:DUf5ncyG0n3jFnU9VsuQqe/Vo6KHtWQ6HYf80JwP4rY=
