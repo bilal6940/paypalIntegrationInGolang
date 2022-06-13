@@ -9,7 +9,6 @@ import (
 	"net/http"
 	"os"
 	constants "test/constant"
-
 	paypalsdk "github.com/gametimesf/paypal-go-sdk"
 	"github.com/joho/godotenv"
 )
@@ -46,6 +45,7 @@ func main() {
 			return
 		}
 
+		//initializing the context
 		ctx = context.Background()
 		ctx = context.WithValue(ctx, "paypalsdkClient", c)
 
